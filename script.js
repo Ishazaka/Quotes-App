@@ -14,3 +14,20 @@ const quotes = [
     quote: `"I can give you a six-word formula for success: Think things through--then follow through."`,
     author: `~ Edward Rickenbacker`
   },
+
+    
+    {
+quote: `“The big secret in life is there is no secret.Whatever your goal, you can get there if you’re willing to work.”`,
+    author: `~ Oprah Winfrey`
+ 
+ },
+  
+  {
+ quote: `“The secret of getting ahead is getting started.”`,
+    author: `~ Mark Twain`
+
+  },
+  {
+    quote: `“Hustle in silence and let your success make the noise.”`,
+    author: `~ Unknown`
+  } ,
