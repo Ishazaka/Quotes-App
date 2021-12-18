@@ -1,4 +1,4 @@
 # Quotes-App
 generate random quotes  using JS
 
-live view   https://hopeful-johnson-66a0de.netlify.app/
+live view  https://pensive-poitras-eff6b9.netlify.app/
