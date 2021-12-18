@@ -35,3 +35,24 @@ box-shadow: 0 0 9px rgba(0, 0, 0, 0.733);
  align-items: center;
  text-align: center;
 }
+
+ .quotebox  .author{
+  text-align: right;
+  margin-top: 7%;
+  margin-right: 30px;
+  
+}
+
+
+.btn{
+  cursor: pointer;
+background-color:  rgb(136, 24, 241);
+  padding: 9px;
+  font-size: 17px;
+ font-weight: 600;
+  border-radius: 10px;
+  margin-top: 46px;
+ margin-left: 38%;
+}
+  
+
