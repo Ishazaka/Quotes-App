@@ -31,3 +31,19 @@ quote: `“The big secret in life is there is no secret.Whatever your goal, you 
     quote: `“Hustle in silence and let your success make the noise.”`,
     author: `~ Unknown`
   } ,
+
+    {
+  quote: `“Don’t be afraid to give up the good to go for the great.”`,
+    author: `~ John D. Rockefeller`
+},
+{
+   quote: `“Invest in your dreams. Grind now. Shine later.”`,
+    author: `~ Unknown`
+  
+},
+{
+  quote: `"When people talk, listen completely."`,
+    author: `~ Ernest Hemingway`
+
+},
+    
