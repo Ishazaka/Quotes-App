@@ -46,4 +46,16 @@ quote: `“The big secret in life is there is no secret.Whatever your goal, you 
     author: `~ Ernest Hemingway`
 
 },
+     ]
+
+ const btn = document.querySelector('.btn');
+ const quote = document.querySelector('.firstquote') ;
+const author = document.querySelector('.author');
+
+btn.addEventListener('click',() => {
+ 
+ let random = Math.floor(Math.random()*quotes.length);
+  quote.innerHTML= quotes[random].quote;
+  author.innerHTML= quotes[random].author;
+})
     
